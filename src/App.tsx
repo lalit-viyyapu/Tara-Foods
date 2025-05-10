@@ -149,7 +149,7 @@ function App() {
       <section className="about py-5 bg-light mt-5">
         <div className="container d-flex flex-column flex-md-row align-items-center">
           <img
-            src="./Images/DSC_1409.JPG"
+            src="/tara-foods/Images/DSC_1409.JPG"
             alt="Tara Devi - Pickle Maker"
             className="rounded-circle mb-4 mb-md-0 me-md-5"
             width="200"
